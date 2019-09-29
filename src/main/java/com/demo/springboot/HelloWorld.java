@@ -12,6 +12,5 @@ public class HelloWorld {
 	   
 	}
 klskljdklsjlkjdslkjasdlkjdsalkjdslak
-kjkkjkjjk
 
 }
