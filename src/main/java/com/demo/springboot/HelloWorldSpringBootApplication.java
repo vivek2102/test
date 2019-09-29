@@ -15,5 +15,6 @@ public class HelloWorldSpringBootApplication {
 			Commit Test
 			bnmnmbmnbmnbmb
 			THe last test
+			GOod night!
 	}
 }
