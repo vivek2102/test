@@ -12,6 +12,7 @@ public class HelloWorldSpringBootApplicationTests {
 	@Test
 	public void luckerNodes() {
 		rahul;
+		vivek;
 	}
 
 }
