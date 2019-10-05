@@ -11,9 +11,16 @@ public class HelloWorldSpringBootApplicationTests {
 
 	@Test
 	public void luckerNodes() {
+		nilam
 		rahul;
 		vivek;
 		sultan;
+		salman;
+		shahrukh;
+		kajol;
+		anil;
+		juhi;
+		madhuri;
 	}
 
 }
