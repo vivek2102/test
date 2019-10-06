@@ -18,6 +18,9 @@ public class HelloWorldSpringBootApplicationTests {
 		shahrukh;
 		kajol;
 		anil;
+		juhi;
+		madhuri;
+		
 	}
 
 }
