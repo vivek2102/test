@@ -20,7 +20,6 @@ public class HelloWorldSpringBootApplicationTests {
 		anil;
 		juhi;
 		madhuri;
-		
 	}
 
 }
