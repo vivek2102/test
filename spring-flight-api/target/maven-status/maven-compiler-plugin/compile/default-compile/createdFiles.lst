@@ -1,0 +1,4 @@
+org\example\flightapi\service\FlightService.class
+org\example\flightapi\model\Flight.class
+org\example\flightapi\controller\FlightController.class
+org\example\flightapi\FlightApplication.class

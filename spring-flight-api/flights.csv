@@ -1,0 +1,4 @@
+"flight_number","source","destination","departure_time","arrival_time"
+"AI101","Delhi","Mumbai","10:00","12:00"
+"AI102","Mumbai","Bangalore","13:00","15:00"
+"AI104","Chennai","Kolkata","14:30","17:00"
